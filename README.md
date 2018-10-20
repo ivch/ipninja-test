@@ -1,9 +1,9 @@
 # Test task for ipninja
 
 ## Notes
-- To save some time i have intentionally skipped writing test. I wrote couple of test just to show
-that i can write test and i remember of their importance and usually i look for 90+% test coverage.
-- Client part can look awfull from ther professional frontend developer point of view. But since i'm a 
+- To save some time i have intentionally skipped writing test. I wrote couple of them just to show
+that i know how to write tests and i know about tests importance. Usually i strive for 90+% test coverage.
+- Client part can look awful from the professional frontend developer point of view. But since i'm a 
 backend developer please do not judge strictly :) 
 
 ## Godep
