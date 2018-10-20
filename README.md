@@ -22,6 +22,6 @@ backend developer please do not judge strictly :)
 
 OR
 
-- 'docker build -t ipninjatest .'
-- 'docker run -p 8080:8080 ipninjatest'
+- `docker build -t ipninjatest .`
+- `docker run -p 8080:8080 ipninjatest`
 - `http://localhost:8080`
